@@ -24,7 +24,7 @@
 
 ## 💻 Getting Started
 
-You can view the source code of this project on GitHub: []
+You can view the source code of this project on GitHub: [https://github.com/TANISHA-singh-7/To-do-list.git]
 
 ##  🧰 Technologies Used
 
